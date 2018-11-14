@@ -1,0 +1,5 @@
+/.idea/
+/.openapi-generator
+/vendor/
+
+git_push.sh
